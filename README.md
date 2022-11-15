@@ -29,4 +29,4 @@ Todo app
 To simplify the scope of the app I decided to not implement page error, I'm managing the error
 answering with default values.
 
-For lack of time I decided to not implement ui tests, that should had done to do integration tests
+For lack of time I decided to not implement ui tests, that should had done to do integration tests cause I tested directly the viewModel
