@@ -1,0 +1,18 @@
+{
+    "appTitle": "To do app",
+    "enterButtonText": "Confirm",
+    "loginPageDescription": "To continue please enter your name",
+    "invalidName": "Invalid name",
+    "name": "Enter your name",
+    "description": "Description: ",
+    "dueDate": "Due date: ",
+    "save": "SAVE",
+    "invalidTitle": "Invalid title",
+    "titleForm": "Title",
+    "descriptionForm": "Description",
+    "dateForm": "Date",
+    "addTodoData": "ADD YOUR NEW TASK",
+    "editTodoData": "EDIT YOUR TO-DO",
+    "isDone": "is done?",
+    "delete": "DELETE"
+}
